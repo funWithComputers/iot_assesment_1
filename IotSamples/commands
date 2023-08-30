@@ -1,0 +1,2 @@
+mosquitto_pub -t "ifn649" -m LED_ON
+mosquitto_pub -t "topic"
